@@ -1,1 +1,2 @@
 # HotelReservationSystem
+The Hotel Reservation System is a web-based application developed to automate the process of hotel room booking and management. This system allows customers to search for available rooms, view room details, and make reservations online. It also enables hotel administrators to manage room availability, customer information, and booking records efficiently. The system reduces manual work and improves accuracy, speed, and customer satisfaction
